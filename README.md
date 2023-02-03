@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Eduardo Soares.</h1>
-<h3 align="center">Aspirante a Dev, entusiasta nas linguagens Python e SQL.</h3>
+<h3 align="center">Aspirante a Dev Full Stack JS.</h3>
 
 - 🌱 Atualmente estou aprendendo **JavaScript**
 
