@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Eduardo Soares.</h1>
+<h1 align="center">Olá 👋, eu sou Eduardo Martins.</h1>
 <h3 align="center">Aspirante a Dev.</h3>
 
 - 🌱 Atualmente estou aprendendo **Flutter & JavaScript**
